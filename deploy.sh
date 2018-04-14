@@ -11,7 +11,7 @@ deploy_book()
 ## deploy master(default)
 deploy_master()
 {
-    git add .
+    git add -u
 	git commit -m "updates"
 	git remote add origin https://github.com/hoverzheng/redis-source-code-scenario-analysis.git
 	git push -u origin master
