@@ -1,0 +1,54 @@
+{
+    "title": "redis source code scenario analysis",
+    "description": "redis source code scenario analysis|hoverzheng.github.io|Hover Zheng",
+    "language": "zh-hans",
+    "author": "Hover Zheng",
+    "links": {
+        "sidebar": {
+            "Hover Zheng": "https://hoverzheng.github.io"
+        }
+    },
+    "plugins": [
+        "github",
+        "codesnippet",
+        "splitter",
+        "page-toc-button",
+        "image-captions",
+        "editlink",
+        "back-to-top-button",
+        "-lunr", "-search", "search-plus",
+        "github-buttons@2.1.0",
+        "favicon@^0.0.2",
+        "tbfed-pagefooter@^0.0.1",
+        "3-ba"
+    ],
+    "pluginsConfig": {
+        "github": {
+            "url": "https://github.com/hoverzheng/redis-source-code-scenario-analysis.git"
+        },
+        "editlink": {
+            "base": "https://github.com/hoverzheng/redis-source-code-scenario-analysis/blob/master/",
+            "label": "编辑本页"
+        },
+        "image-captions": {
+            "caption": "图片 - _CAPTION_"
+        },
+        "github-buttons": {
+            "repo": "hoverzheng/redis-source-code-scenario-analysis",
+            "types": ["star"],
+            "size": "small"
+        },
+        "tbfed-pagefooter": {
+            "copyright": "Copyright © hoverzheng.github.io 2017",
+            "modify_label": "Updated:",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "favicon": {
+            "shortcut": "favicon.ico",
+            "bookmark": "favicon.ico"
+        },
+        "3-ba": {
+            "token": "11f7d254cfa4e0ca44b175c66d379ecc"
+        }
+    }
+}
